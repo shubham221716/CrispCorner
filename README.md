@@ -4,7 +4,7 @@
 2. With its responsive design, the website adapts effortlessly to various devices, ensuring a consistent and user-friendly interface.
 3. Angular's dynamic data binding enables real-time updates on menu items, prices, and availability, providing customers with accurate information.
 4. The website's intuitive navigation, built using Angular's routing capabilities, allows users to explore diverse menu categories with ease.
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
+5.This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.7.
 
 ## Development server
 
@@ -30,8 +30,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Authors
+## Author
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@octokatherine](https://shubh45.netlify.app/)
 
 
