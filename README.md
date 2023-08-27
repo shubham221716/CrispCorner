@@ -40,6 +40,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 6. git remote add origin https://github.com/shubham221716/Food_Angular.git
 7. git push -u origin main
 
+1. echo "# Food_Angular" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/shubham221716/Food_Angular.git
+7. git push -u origin main
 ## Author
 
 - [@shubham](https://shubh45.netlify.app/)
