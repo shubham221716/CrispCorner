@@ -32,13 +32,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## Some Usefull Commands
-echo "# Food_Angular" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/shubham221716/Food_Angular.git
-git push -u origin main
+1. echo "# Food_Angular" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin https://github.com/shubham221716/Food_Angular.git
+7. git push -u origin main
 
 ## Author
 
